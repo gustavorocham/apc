@@ -1,0 +1,16 @@
+INP
+        STA LIMITE
+        LDA ZERO
+LOOP    STA ATUAL
+        OUT
+        LDA ATUAL
+        SUB LIMITE
+        BRP FIM
+        LDA ATUAL
+        ADD UM
+        BRA LOOP
+FIM     HLT
+ZERO    DAT 000
+UM      DAT 001
+LIMITE  DAT
+ATUAL   DAT
