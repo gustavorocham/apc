@@ -1,2 +1,4 @@
 # apc
 EXERCICIOS SEMANAIS DE APC
+semana 1 e 2 
+Dominar a lógica de algoritmos através do LMC foi uma experiência essencial para entender como a computação funciona na prática. Nesse processo, o suporte do Octopus Studio ajudou muito, sendo um aliado importante para traduzir esses conceitos de baixo nível e consolidar meu aprendizado de forma bem mais clara e direta.
