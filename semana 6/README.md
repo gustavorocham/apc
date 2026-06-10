@@ -1,1 +1,1 @@
-
+Na sexta semana, consolidei todo o conhecimento adquirido ao integrar com sucesso as frentes de design visual, lógica de programação e física aplicada. Essa sinergia permitiu a construção e a entrega do meu projeto final: um jogo completo desenvolvido totalmente do zero, que reflete a aplicação prática de todas as competências técnicas desenvolvidas ao longo do ciclo.
