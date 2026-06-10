@@ -1,1 +1,1 @@
-
+SEMANA 3 Aprendi a usar o plano de coordenadas X e Y para posicionar elementos e desenhar formas geométricas.Utilizei variáveis e números aleatórios para criar projetos dinâmicos e menos estáticos.Comecei a trabalhar com Sprites, manipulando imagens através de propriedades como escala e rotação.
