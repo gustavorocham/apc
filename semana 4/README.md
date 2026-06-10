@@ -1,1 +1,1 @@
-
+SEMANA 4 Entendi o funcionamento do Draw Loop, que atualiza a tela constantemente para criar a ilusão de movimento. Apliquei o "padrão de contador" e estruturas condicionais (if/else) para dar inteligência ao código. Desenvolvi controles para que o programa reaja instantaneamente ao pressionar teclas ou clicar com o mouse.
