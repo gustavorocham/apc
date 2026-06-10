@@ -1,1 +1,1 @@
-
+Durante a quinta semana, foquei no desenvolvimento de dinâmicas interativas mais complexas, simulando comportamentos realistas por meio de conceitos fundamentais de velocidade e sistemas avançados de colisão entre objetos. Para sustentar essa física de forma eficiente, aprimorei a arquitetura do software aprendendo a modularizar o código em blocos limpos, organizados e totalmente reutilizáveis através do uso estratégico de funções.
